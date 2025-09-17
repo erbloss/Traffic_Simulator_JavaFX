@@ -28,6 +28,11 @@ This project is a traffic simulator implemented using JavaFX. It provides a visu
 
 ---
 
+## Screenshots
+
+- Refer to /images folder for screenshots
+- UML diagram included
+
 ## Getting Started
 
 ### Prerequisites
